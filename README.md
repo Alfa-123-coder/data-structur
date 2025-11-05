@@ -1,3 +1,1 @@
-# data-structur
-# data-structur
-# ds-sem1
+# ds1
